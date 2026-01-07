@@ -1,0 +1,26 @@
+{
+  "user_context": {
+    "user_id": "hydro_9928",
+    "risk_profile": "moderate-aggressive",
+    "preferred_assets": ["ETH", "H2O", "USDC"]
+  },
+  "financial_data": {
+    "total_value_locked": 12450.50,
+    "active_positions": [
+      {
+        "pool": "H2O/ETH-LP",
+        "value_usd": 5200.00,
+        "current_yield": "18.5%"
+      }
+    ],
+    "wallet_balance": {
+      "ETH": 1.2,
+      "USDC": 500.00
+    }
+  },
+  "market_data": {
+    "eth_price": 2450.00,
+    "network_congestion": "low"
+  },
+  "query": "Should I move my idle USDC into the H2O/ETH pool right now?"
+}
